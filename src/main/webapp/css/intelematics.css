@@ -1,0 +1,35 @@
+body {
+    background-color: #E8E8E8;
+}
+
+input {
+    width: 200px;
+}
+
+.loginContainer {
+    margin: auto;
+    margin-top: 20px;
+    width: 200px;
+    padding: 10px;
+}
+
+.error {
+    font-weight: bold;
+    color: red;
+}
+
+.input {
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.pageContainer {
+    margin: auto;
+    width: 800px;
+    background-color: white;
+    padding:10px;
+}
+
+button {
+    cursor: pointer;
+}
